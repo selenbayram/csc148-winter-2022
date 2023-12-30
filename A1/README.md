@@ -1,6 +1,8 @@
 # Assignment 1 for CSC148H1 at the University of Toronto. 
 # Raccoon Raiders! 
 
+![raccoon_raiders](https://github.com/selenbayram/csc148-winter-2022/assets/113145976/11a369f6-a631-42fd-b733-3559d7265a84)
+
 
 ## Game Description
 
