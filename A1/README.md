@@ -11,7 +11,7 @@ Raccoons try to climb into one of the available garbage cans.
 The main player aims to prevent the raccoons from reaching the garbage cans by trapping them using recycling bins. 
 The game is similar to [Rodent's Revenge](https://en.wikipedia.org/wiki/Rodent%27s_Revenge) in terms of rules and design. 
 
-_NOTE: The starter code is provided by the instructors and the copyright statement can be found at the beginning of each file._
+_NOTE: The starter code is provided by the instructors and the copyright statement can be found at the beginning of each relevant file._
 
 ### Classes (in a1.py)
 _NOTE: The class descriptions are obtained from the assignment handout provided by the instructors._
